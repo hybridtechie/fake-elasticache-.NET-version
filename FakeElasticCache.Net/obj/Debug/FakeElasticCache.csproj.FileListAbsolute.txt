@@ -1,0 +1,8 @@
+C:\Users\nithi\Documents\Visual Studio 2017\Projects\MyTcpListener\MyTcpListener\bin\Debug\MyTcpListener.exe.config
+C:\Users\nithi\Documents\Visual Studio 2017\Projects\MyTcpListener\MyTcpListener\bin\Debug\MyTcpListener.exe
+C:\Users\nithi\Documents\Visual Studio 2017\Projects\MyTcpListener\MyTcpListener\bin\Debug\MyTcpListener.pdb
+C:\Users\nithi\Documents\Visual Studio 2017\Projects\MyTcpListener\MyTcpListener\bin\Debug\SimpleTCP.dll
+C:\Users\nithi\Documents\Visual Studio 2017\Projects\MyTcpListener\MyTcpListener\obj\Debug\FakeElasticCache.csprojResolveAssemblyReference.cache
+C:\Users\nithi\Documents\Visual Studio 2017\Projects\MyTcpListener\MyTcpListener\obj\Debug\FakeElasticCache.csproj.CoreCompileInputs.cache
+C:\Users\nithi\Documents\Visual Studio 2017\Projects\MyTcpListener\MyTcpListener\obj\Debug\MyTcpListener.exe
+C:\Users\nithi\Documents\Visual Studio 2017\Projects\MyTcpListener\MyTcpListener\obj\Debug\MyTcpListener.pdb
